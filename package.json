@@ -1,0 +1,9 @@
+{
+  "name": "daily-news-agent",
+  "type": "module",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "@anthropic-ai/sdk": "latest",
+    "nodemailer": "latest"
+  }
+}
